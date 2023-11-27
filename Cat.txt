@@ -1,0 +1,8 @@
+Cat happy
+dog
+car nice
+motorbike
+telephone
+airplane
+truck
+cat sad
